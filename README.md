@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Supraja 👋  
 
-<!--
-**SuprajaK-1999/SuprajaK-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Analyst passionate about turning data into meaningful insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+- Entry-level Data Analyst with strong interest in data analysis and visualization  
+- Skilled in SQL, Excel, Python, and Power BI  
+- Currently building real-world data projects to strengthen practical skills  
+- Interested in solving business problems using data  
+
+---
+
+## 🛠️ Skills  
+- **Languages:** SQL, Python  
+- **Tools:** Excel, Power BI, Tableau  
+- **Data:** Data Cleaning, Data Analysis, Data Visualization  
+- **Other:** ETL Basics, Reporting, KPI Tracking  
+
+---
+
+## 📊 Projects  
+🔹 Coming Soon — Currently working on data analysis projects  
+
+---
+
+## 📫 Connect with Me  
+- LinkedIn: www.linkedin.com/in/supraja-kanathala
+- Email : suprajakanathala@gmail.com  
+
+---
+
+⭐ Always learning and improving every day
