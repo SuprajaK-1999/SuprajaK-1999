@@ -1,8 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--           SUPRAJA KANATHALA — GitHub Profile README                -->
-<!--     Paste this into your SuprajaK-1999/SuprajaK-1999 repo         -->
-<!--     Lines marked 👈 need your real URL when you're ready           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
