@@ -1,8 +1,3 @@
-
-<html>
-
-
-
     <h1 align="center">Supraja Reddy</h1>
 
 
