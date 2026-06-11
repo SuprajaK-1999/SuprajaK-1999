@@ -1,4 +1,19 @@
-<h1 align="center">Hi 👋, I'm Supraja Kanathala</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2 id="result"></h2>
+
+<button onclick="showName()">Click Me</button>
+
+<script>
+function showName() {
+    document.getElementById("result").innerHTML = "Supraja Reddy";
+}
+</script>
+
+</body>
+</html>
 <h3 align="center">A data analyst and aspiring data engineer from Toronto, Canada 🇨🇦</h3>
 
 <div align="center">
