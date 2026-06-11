@@ -6,9 +6,6 @@
 
 <button onclick="showName()">Click Me</button>
 
-<script>
-function showName() {
-    document.getElementById("result").innerHTML = "Supraja Reddy";
 }
 </script>
 
