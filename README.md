@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>My Name</title>
+</head>
 <body>
 
-<h2 id="result"></h2>
-
-<button onclick="showName()">Click Me</button>
-
-}
-</script>
+    <h1>Supraja Reddy</h1>
 
 </body>
-</html>
 <h3 align="center">A data analyst and aspiring data engineer from Toronto, Canada 🇨🇦</h3>
 
 <div align="center">
