@@ -1,13 +1,11 @@
-<!DOCTYPE html>
+
 <html>
-<head>
-    <title>My Name</title>
-</head>
-<body>
 
-    <h1>Supraja Reddy</h1>
 
-</body>
+
+    <h1 align="center">Supraja Reddy</h1>
+
+
 <h3 align="center">A data analyst and aspiring data engineer from Toronto, Canada 🇨🇦</h3>
 
 <div align="center">
