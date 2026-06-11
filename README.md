@@ -1,4 +1,4 @@
-    <h1 align="center">Supraja Reddy</h1>
+<h1 align="center">Hi there 👋, I'm Supraja</h1>
 
 
 <h3 align="center">A data analyst and aspiring data engineer from Toronto, Canada 🇨🇦</h3>
