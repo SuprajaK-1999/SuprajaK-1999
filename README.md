@@ -1,4 +1,4 @@
-```html
+<html>
 <div align="center">
 
 # 👋 Hi, I'm Supraja Kanathala
@@ -122,4 +122,4 @@ Always learning • Building projects • Growing in Data Analytics
 </p>
 
 </div>
-```
+</html>
