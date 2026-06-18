@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Supraja 👋</h1>
 
 <p align="center">
-  Data / BI Analyst with a background in retail and pharmaceutical analytics, now moving toward AI/ML engineering.
+  Data Analyst / Business Intelligence Analyst 
 </p>
 
 <p align="center">
